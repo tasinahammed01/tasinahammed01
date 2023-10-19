@@ -1,4 +1,4 @@
-[![MasterHead](https://i.ibb.co/54jbKtv/Tasin-Ahammed.jpg)
+![MasterHead](https://i.ibb.co/54jbKtv/Tasin-Ahammed.jpg)
 
 <h1 align="center">Hi 👋, I'm Tanjid Ahammed Tasin</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
